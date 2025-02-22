@@ -2,9 +2,11 @@
 
 This repository provides a custom icon for the Cursor IDE that more closely resembles the Visual Studio Code icon. The similar appearance helps maintain muscle memory and workflow efficiency when transitioning to using Cursor (from VS Code).
 
+<img src="Cursor.png" alt="Cursor Icon" width="200px">
+
 ## How to install
 
-Down the `.icns` file from this repo, and then in Finder:
+Down the `.icns` [file from this repo](icon.icns), and then in Finder:
 
 1) Right-click on the Cursor application
 2) Select "Get Info" (or use ⌘ + I)
